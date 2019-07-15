@@ -1,10 +1,10 @@
 # Site settings
-title: YM Blog
-SEOTitle: 于猛的博客 | YM Blog
+title: Mason Blog
+SEOTitle: 小蜢的博客 | Mason Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
 description: " 神即道，道法自然，如来。 "
-keyword: "于猛, 哲学, 思想, 投资, 随笔"
+keyword: "哲学, 思想, 投资, 随笔"
 # url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "Valar morghulis<br>凡人皆有一死"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -106,13 +106,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "Ewenwan's Github",
+        href: "https://github.com/Ewenwan"
+#     },{
+#         title: "前端外刊评论",
+#         href: "http://qianduan.guru/"
     }
 ]
