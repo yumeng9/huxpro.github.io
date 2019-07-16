@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: platoyu@163.com
 description: " 神即道，道法自然，如来。 "
 keyword: "哲学, 思想, 投资, 随笔"
-# url: "https://huangxuan.me"              # your host, for absolute URL
+# url: "https://"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
