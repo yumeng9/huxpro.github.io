@@ -1,5 +1,5 @@
 # Site settings
-title: Mason Blog
+title: Taoism Follows Nature
 SEOTitle: 小蜢的博客 | Mason Blog
 header-img: img/home-bg.jpg
 email: platoyu@163.com
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Valar morghulis<br>凡人皆有一死"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-ym-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
