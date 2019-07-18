@@ -3,7 +3,6 @@ layout: post
 title: "Financial Statement Analysis"
 subtitle: '企业财务报表分析'
 author: "Mason"
-header-img: "img/post-bg-financial-statement.jpg"
 header-style: text
 header-mask: 0.4
 tags:
