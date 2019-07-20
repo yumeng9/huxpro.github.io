@@ -3,13 +3,13 @@ layout:    post
 title:     "Financial Statement Analysis"
 subtitle:  '企业财务报表分析'
 author: "Mason"
-header-style: text
-header-img: "img/post-bg-infinity.jpg"
+header-img: "img/post-bg-dreamer.jpg"
 header-mask: 0.4
 tags:
   - Finance
   - Notes
 ---
+
 
 笔记整理自张新民教授的在线课程[企业财务报表分析](http://open.163.com/special/cuvocw/qiyecaiwu.html)。  
 主要讲财报分析基础内容，较少涉及比率分析，适合入门。  
